@@ -1,4 +1,4 @@
-.container {
+main {
   display: flex;
   /* flexboxコンテナに対してメイン軸での位置 */
   justify-content: center;
