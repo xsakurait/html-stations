@@ -4,7 +4,6 @@ main {
   justify-content: center;
   /* 配置する位置を指定する */
   align-items: center;
-  display: block;
 }
 
 .card {
